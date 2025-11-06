@@ -1,7 +1,7 @@
 
 # 👋 你好，我是 Annis！
 
-![我的动态图}(https://imgur.gg/f/Mp4Vqrd.gif)   
+![我的动态图]((https://i.imgur.gg/Mp4Vqrd-XIAO-HEI!.gif))   
 ## 关于我
 - 🔭 目前正在学习 Git 和 GitHub
 - 🌱 对编程和开源充满热情!会像一个🐢慢慢groping!!!
