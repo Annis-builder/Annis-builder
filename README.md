@@ -1,5 +1,6 @@
-# 👋 你好，我是 Annis！
+![Uploading XIAO-HEI!.gif…]()
 
+# 👋 你好，我是 Annis！
 ## 关于我
 - 🔭 目前正在学习 Git 和 GitHub
 - 🌱 对编程和开源充满热情!会像一个🐢慢慢groping!!!
