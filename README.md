@@ -1,6 +1,7 @@
-![Uploading XIAO-HEI!.gif…]()
 
 # 👋 你好，我是 Annis！
+
+![我的动态图}(https://imgur.gg/f/Mp4Vqrd.gif)   
 ## 关于我
 - 🔭 目前正在学习 Git 和 GitHub
 - 🌱 对编程和开源充满热情!会像一个🐢慢慢groping!!!
@@ -12,3 +13,5 @@
 
 ## 📈 GitHub 数据
 ![Annis的GitHub数据](https://github-readme-stats.vercel.app/api?username=Annis-builder&show_icons=true)
+
+
